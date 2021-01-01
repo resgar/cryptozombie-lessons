@@ -5,9 +5,8 @@ roadmap: roadmap.jpg
 path: solidity
 ---
 
-So you think you have what it takes to become a **CryptoZombie**, huh?
+فکر می‌کنی چیزهایی که برای **CryptoZombie** شدن لازم هست رو داری، اره؟
 
-This course will teach you how to **build a game on Ethereum**.
+این بازی به تو یاد خواهد داد، چطور **یک بازی بر روی Ethereum بسازی**.
 
-It's designed for beginners to Solidity, but it assumes you have some experience
-programming in another language (e.g. Javascript).
+این دوره برای تازه‌ کار‌های Solidity طراحی شده است، اما فرض می‌کند شما تا حدی تجربه برنامه نویسی در زبانی دیگر را دارید (به عنوان مثال، جاوا اسکریپت).
